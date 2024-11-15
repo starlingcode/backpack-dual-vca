@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ssm2164")(type "Legacy")(uri "/home/user/schems/stereo/lib/ssm2164.lib")(options "")(descr ""))
+  (lib (name "trs_backpacks")(type "Legacy")(uri "/home/user/schems/stereo/lib/trs_backpacks.lib")(options "")(descr ""))
+  (lib (name "stereo-simple-vca-rescue")(type "Legacy")(uri "${KIPRJMOD}/stereo-simple-vca-rescue.lib")(options "")(descr ""))
+)
